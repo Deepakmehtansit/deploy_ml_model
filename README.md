@@ -3,7 +3,7 @@
 How to deply classifier model with flask
 
 Step1. Train and save a model
-        Here's the link https://github.com/Deepakmehtansit/deploy_ml_model.git code to building a simple classification model and then saving the model by serializing it using pickle,
+        Here's the link https://github.com/Deepakmehtansit/deploy_ml_model/blob/master/adclick_prediction.ipynb code to building a simple classification model and then saving the model by serializing it using pickle,
         Python pickle module is used for serializing and de-serializing a Python object structure.
         The idea is that this character stream contains all the information necessary to reconstruct the object in another python script
     
