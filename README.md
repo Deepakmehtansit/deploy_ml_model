@@ -8,6 +8,7 @@ Step1. Train and save a model
         The idea is that this character stream contains all the information necessary to reconstruct the object in another python script
     
 Step2. Now the model is ready and saved. It’s time to building a flask application.
+
     create virtual environment assuming python is already installed
     --> virtualenv venv
     activate virtual environment
@@ -17,6 +18,7 @@ Step2. Now the model is ready and saved. It’s time to building a flask applica
     now install required libraries
     
 Step3 Creating the PREDICTION API
+
     1 Initiate flask application
     2 load saved model
     3 redirecting the api to the homepage
